@@ -54,14 +54,7 @@ void solve(){
 	  cnt++;	
 	}
 	
-	
 	cout << seekingTime << endl ;
-	
-	
-	
-	
-	
-	
 }
 
 int32_t main(){

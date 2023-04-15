@@ -1,2 +1,2 @@
 # OperatingSystem_LabFile
-All algorithms related to operating system which are covered in lab . 
+All algorithms related to operating system in our course. 
